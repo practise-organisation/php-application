@@ -1,4 +1,4 @@
 <?php
-echo "Hello, World!";
+echo "welocme to front end page!";
 ?>
 
